@@ -1,0 +1,27 @@
+/* Our CSS file. */
+
+
+.container {
+width: 100%;
+}
+section{
+    height: auto;
+    width: 100%;
+    display: inline-block;
+}
+.list{
+    vertical-align: top;
+    width: 49%;
+    display: inline-block;
+
+}
+.image{
+    display: inline-block;
+    width: 49%;
+    
+}
+.header{
+    vertical-align:middle !important;
+    display:inline-block;
+    width:45%;
+}
